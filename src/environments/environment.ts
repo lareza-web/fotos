@@ -6,8 +6,8 @@ export const environment = {
   production: false,
   firebase: {
     apiKey: 'AIzaSyAV_C4Ecaqzt8WFA2SrBYKgaxbEtqBYRAc',
-    authDomain: 'fotos-524ac.firebaseapp.com',
-    databaseURL: 'https://fotos-524ac.firebaseio.com',
+    authDomain: '',
+    databaseURL: '',
     projectId: 'fotos-524ac',
     storageBucket: 'fotos-524ac.appspot.com',
     messagingSenderId: '436100637493'    
