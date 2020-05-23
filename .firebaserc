@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fotos-524ac": {
+      "hosting": {
+        "fotos": [
+          "fotos-524ac"
+        ]
+      }
+    }
+  }
+}
